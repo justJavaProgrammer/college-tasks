@@ -1,3 +1,5 @@
+package edu.odeyalotasks.practice;
+
 import java.util.Scanner;
 
 /**
