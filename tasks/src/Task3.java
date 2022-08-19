@@ -23,7 +23,7 @@ public class Task3 {
         int students = scn.nextInt();
         System.out.print("Enter number of apples: ");
         int apples = scn.nextInt();
-        int formula = (int) apples / students;
+        int formula = apples / students;
         System.out.println("Every student will get: " + formula);
     }
 }
